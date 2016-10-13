@@ -1,4 +1,4 @@
-db
+database
 ---------
 ```sql
 --
