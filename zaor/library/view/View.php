@@ -1,5 +1,5 @@
 <?php
-namespace zaor\View;
+namespace zaor\view;
 
 use zaor\Componet;
 

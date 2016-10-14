@@ -1,7 +1,5 @@
 ##Database Design
 
-[TOC]
-
 ### 表设计
 *`loading`*
 

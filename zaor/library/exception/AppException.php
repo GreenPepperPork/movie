@@ -1,7 +1,7 @@
 <?php
-namespace zaor\Exception;
+namespace zaor\exception;
 
-use zaor\Exception;
+use zaor\exception;
 class AppException extends Exception
 {
 }

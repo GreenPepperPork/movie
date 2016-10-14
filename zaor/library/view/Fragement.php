@@ -1,5 +1,5 @@
 <?php
-namespace zaor\View;
+namespace zaor\view;
 
 use zaor\exception\AppException;
 class Fragement extends View
